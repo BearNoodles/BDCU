@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{91A31339-78F9-4AAA-B32F-A29AC604FA66}" SchemaVersion="85">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{91A31339-78F9-4AAA-B32F-A29AC604FA66}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Main" ID="{68F90721-01C5-44E7-ACC9-AE3DE6F43858}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Item_drop_off" ID="{6A8CCBB9-FE98-407D-8FF4-E3D835D3ECBC}" WorkUnitID="{169D0C37-7FFC-4E55-A3E9-8C4F014793C1}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Item_Pickup" ID="{28CF031B-A0FD-40E0-8865-6B02E1360B52}" WorkUnitID="{FA313772-C54A-4DC7-B965-3A1F8929482C}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Item_Pickup" ID="{5DC732CB-0AB1-42B6-9CAD-F93A52D88880}" WorkUnitID="{169D0C37-7FFC-4E55-A3E9-8C4F014793C1}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="ATMOS" ID="{8DCF6E68-4198-438F-8C7B-F2E8BE02F056}" WorkUnitID="{169D0C37-7FFC-4E55-A3E9-8C4F014793C1}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Throw" ID="{35916773-3C16-464E-A47A-54B65AB7F874}" WorkUnitID="{169D0C37-7FFC-4E55-A3E9-8C4F014793C1}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Trash Disintigration" ID="{11F2BABE-94F8-4676-A52F-D27DD1DDE7ED}" WorkUnitID="{FA313772-C54A-4DC7-B965-3A1F8929482C}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Trash_Disintegration" ID="{E6A3D708-4FE1-467C-BD08-5631F4F17386}" WorkUnitID="{169D0C37-7FFC-4E55-A3E9-8C4F014793C1}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Stop_ATMOS" ID="{ABBDBCB0-479A-4713-9456-551B57084AB1}" WorkUnitID="{169D0C37-7FFC-4E55-A3E9-8C4F014793C1}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Underwater Explosion" ID="{A3130556-B440-4812-9E2F-287F0FA77AD5}" WorkUnitID="{FA313772-C54A-4DC7-B965-3A1F8929482C}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Trash Splash" ID="{14AC1F9C-F815-4853-AC71-99AB8158DE8F}" WorkUnitID="{FA313772-C54A-4DC7-B965-3A1F8929482C}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Diver" ID="{6D1B5632-1229-4882-9564-65F40C49FA9C}" WorkUnitID="{169D0C37-7FFC-4E55-A3E9-8C4F014793C1}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Diver" ID="{D6F8364E-E4D9-49A7-9595-84C7747F474C}" WorkUnitID="{FA313772-C54A-4DC7-B965-3A1F8929482C}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Boat" ID="{E3956057-6734-49EE-874F-AFF4532D0729}" WorkUnitID="{FA313772-C54A-4DC7-B965-3A1F8929482C}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Boat" ID="{35976D0C-6915-4A0B-92AA-939134126E73}" WorkUnitID="{169D0C37-7FFC-4E55-A3E9-8C4F014793C1}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Handgun" ID="{3F8148FB-B542-4B19-9570-AFECD8EDB5C7}" WorkUnitID="{FA313772-C54A-4DC7-B965-3A1F8929482C}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Throw" ID="{BA98D408-9A03-4C82-A6FC-AD740962614A}" WorkUnitID="{FA313772-C54A-4DC7-B965-3A1F8929482C}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Item_Drop_Off" ID="{6B03E1D5-43D0-4CBE-BD88-3EA9483890FD}" WorkUnitID="{FA313772-C54A-4DC7-B965-3A1F8929482C}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Underwater_Explosion" ID="{9F32FACE-DFF7-4D0D-A33C-3F0720E1C16C}" WorkUnitID="{169D0C37-7FFC-4E55-A3E9-8C4F014793C1}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Default Work Unit" ID="{FA313772-C54A-4DC7-B965-3A1F8929482C}" WorkUnitID="{FA313772-C54A-4DC7-B965-3A1F8929482C}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Stop_Music" ID="{FCD3B139-47FB-4DF2-AC1B-0FF4C59D7CF2}" WorkUnitID="{169D0C37-7FFC-4E55-A3E9-8C4F014793C1}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Trash_Splash" ID="{8B8CB021-0530-4E25-B610-4383DA46E8D8}" WorkUnitID="{169D0C37-7FFC-4E55-A3E9-8C4F014793C1}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Gun" ID="{43B89788-B644-4EC3-8A3B-389883BC4AB9}" WorkUnitID="{169D0C37-7FFC-4E55-A3E9-8C4F014793C1}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="ATMOS" ID="{B406B29E-6AB7-4FCA-B659-2D82B5215921}" WorkUnitID="{FA313772-C54A-4DC7-B965-3A1F8929482C}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Music" ID="{DB8B1376-1AC4-4FD8-9F1F-167EE8EED5A5}" WorkUnitID="{169D0C37-7FFC-4E55-A3E9-8C4F014793C1}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

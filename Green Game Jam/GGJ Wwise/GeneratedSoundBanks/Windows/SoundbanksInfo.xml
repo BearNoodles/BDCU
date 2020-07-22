@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="128">
+	<RootPaths>
+		<ProjectRoot>D:\Green_Game_Jam_17\Green Game Jam\GGJ Wwise\</ProjectRoot>
+		<SourceFilesRoot>D:\Green_Game_Jam_17\Green Game Jam\GGJ Wwise\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>D:\Green_Game_Jam_17\Green Game Jam\GGJ Wwise\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>D:\Green_Game_Jam_17\Green Game Jam\GGJ Wwise\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="3161908922" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Main</ObjectPath>
+			<ShortName>Main</ShortName>
+			<Path>Main.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3034623661" Name="ATMOS" ObjectPath="\Events\Default Work Unit\ATMOS"/>
+				<Event Id="1795056175" Name="Boat" ObjectPath="\Events\Default Work Unit\Boat"/>
+				<Event Id="3753125487" Name="Diver" ObjectPath="\Events\Default Work Unit\Diver"/>
+				<Event Id="915214409" Name="Gun" ObjectPath="\Events\Default Work Unit\Gun"/>
+				<Event Id="4191796378" Name="Item_drop_off" ObjectPath="\Events\Default Work Unit\Item_drop_off"/>
+				<Event Id="566396871" Name="Item_Pickup" ObjectPath="\Events\Default Work Unit\Item_Pickup"/>
+				<Event Id="3991942870" Name="Music" ObjectPath="\Events\Default Work Unit\Music"/>
+				<Event Id="801495022" Name="Stop_ATMOS" ObjectPath="\Events\Default Work Unit\Stop_ATMOS" MaxAttenuation="0.000000"/>
+				<Event Id="2837384057" Name="Stop_Music" ObjectPath="\Events\Default Work Unit\Stop_Music" MaxAttenuation="0.000000"/>
+				<Event Id="745179803" Name="Throw" ObjectPath="\Events\Default Work Unit\Throw"/>
+				<Event Id="1241012326" Name="Trash_Disintegration" ObjectPath="\Events\Default Work Unit\Trash_Disintegration"/>
+				<Event Id="2048636481" Name="Trash_Splash" ObjectPath="\Events\Default Work Unit\Trash_Splash"/>
+				<Event Id="1947504258" Name="Underwater_Explosion" ObjectPath="\Events\Default Work Unit\Underwater_Explosion"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="43313938" Language="SFX">
+					<ShortName>ATMOS_Mid Layer Loop.wav</ShortName>
+					<Path>SFX\ATMOS_Mid Layer Loop_F17FB28C.wem</Path>
+				</File>
+				<File Id="107303243" Language="SFX">
+					<ShortName>Item_Pickup.wav</ShortName>
+					<Path>SFX\Item_Pickup_1C9C67B2.wem</Path>
+				</File>
+				<File Id="146868636" Language="SFX">
+					<ShortName>Trash Splash_2.wav</ShortName>
+					<Path>SFX\Trash Splash_2_1C9C67B2.wem</Path>
+				</File>
+				<File Id="400857580" Language="SFX">
+					<ShortName>Trash Disintigration.wav</ShortName>
+					<Path>SFX\Trash Disintigration_1C9C67B2.wem</Path>
+				</File>
+				<File Id="421126709" Language="SFX">
+					<ShortName>ATMOS_Top Layer Loop.wav</ShortName>
+					<Path>SFX\ATMOS_Top Layer Loop_F17FB28C.wem</Path>
+				</File>
+				<File Id="425966432" Language="SFX">
+					<ShortName>Item_Drop_Off.wav</ShortName>
+					<Path>SFX\Item_Drop_Off_1C9C67B2.wem</Path>
+				</File>
+				<File Id="476540393" Language="SFX">
+					<ShortName>ATMOS_Bottom Layer Loop.wav</ShortName>
+					<Path>SFX\ATMOS_Bottom Layer Loop_F17FB28C.wem</Path>
+				</File>
+				<File Id="566987564" Language="SFX">
+					<ShortName>Trash Splash_1.wav</ShortName>
+					<Path>SFX\Trash Splash_1_1C9C67B2.wem</Path>
+				</File>
+				<File Id="574188644" Language="SFX">
+					<ShortName>Music_Loop.wav</ShortName>
+					<Path>SFX\Music_Loop_F17FB28C.wem</Path>
+				</File>
+				<File Id="675420384" Language="SFX">
+					<ShortName>Throw.wav</ShortName>
+					<Path>SFX\Throw_1C9C67B2.wem</Path>
+				</File>
+				<File Id="764596875" Language="SFX">
+					<ShortName>Underwater Explosion.wav</ShortName>
+					<Path>SFX\Underwater Explosion_1C9C67B2.wem</Path>
+				</File>
+				<File Id="872878855" Language="SFX">
+					<ShortName>Boat.wav</ShortName>
+					<Path>SFX\Boat_F17FB28C.wem</Path>
+				</File>
+				<File Id="988502152" Language="SFX">
+					<ShortName>Music_Start.wav</ShortName>
+					<Path>SFX\Music_Start_F17FB28C.wem</Path>
+				</File>
+				<File Id="1028997572" Language="SFX">
+					<ShortName>Handgun Above Water.wav</ShortName>
+					<Path>SFX\Handgun Above Water_1C9C67B2.wem</Path>
+				</File>
+				<File Id="1044853170" Language="SFX">
+					<ShortName>Underwater Handgun.wav</ShortName>
+					<Path>SFX\Underwater Handgun_1C9C67B2.wem</Path>
+				</File>
+				<File Id="1046157685" Language="SFX">
+					<ShortName>Diver.wav</ShortName>
+					<Path>SFX\Diver_F17FB28C.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{169D0C37-7FFC-4E55-A3E9-8C4F014793C1}" SchemaVersion="85">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{169D0C37-7FFC-4E55-A3E9-8C4F014793C1}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="ATMOS" ID="{8DCF6E68-4198-438F-8C7B-F2E8BE02F056}">
+					<ChildrenList>
+						<Action Name="" ID="{8CC6AE79-FA5B-452F-9E8F-3C5B2DE1F547}" ShortID="425189171">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="ATMOS" ID="{B406B29E-6AB7-4FCA-B659-2D82B5215921}" WorkUnitID="{FA313772-C54A-4DC7-B965-3A1F8929482C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Gun" ID="{43B89788-B644-4EC3-8A3B-389883BC4AB9}">
+					<ChildrenList>
+						<Action Name="" ID="{D9D7A731-12BD-4EFF-A7B6-53680E73A560}" ShortID="63814262">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Handgun" ID="{3F8148FB-B542-4B19-9570-AFECD8EDB5C7}" WorkUnitID="{FA313772-C54A-4DC7-B965-3A1F8929482C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Trash_Splash" ID="{8B8CB021-0530-4E25-B610-4383DA46E8D8}">
+					<ChildrenList>
+						<Action Name="" ID="{822000B4-C879-456D-B88B-9B9024708150}" ShortID="533479367">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Trash Splash" ID="{14AC1F9C-F815-4853-AC71-99AB8158DE8F}" WorkUnitID="{FA313772-C54A-4DC7-B965-3A1F8929482C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Boat" ID="{35976D0C-6915-4A0B-92AA-939134126E73}">
+					<ChildrenList>
+						<Action Name="" ID="{DC3B2525-07B5-43ED-905B-93FCCC89F512}" ShortID="632165911">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Boat" ID="{E3956057-6734-49EE-874F-AFF4532D0729}" WorkUnitID="{FA313772-C54A-4DC7-B965-3A1F8929482C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Diver" ID="{6D1B5632-1229-4882-9564-65F40C49FA9C}">
+					<ChildrenList>
+						<Action Name="" ID="{37CBA70A-A887-455C-8E2E-8F1F75568A66}" ShortID="492904971">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Diver" ID="{D6F8364E-E4D9-49A7-9595-84C7747F474C}" WorkUnitID="{FA313772-C54A-4DC7-B965-3A1F8929482C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Underwater_Explosion" ID="{9F32FACE-DFF7-4D0D-A33C-3F0720E1C16C}">
+					<ChildrenList>
+						<Action Name="" ID="{2348C9A7-B57F-4840-B3D6-CFF4332A38B6}" ShortID="390753411">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Underwater Explosion" ID="{A3130556-B440-4812-9E2F-287F0FA77AD5}" WorkUnitID="{FA313772-C54A-4DC7-B965-3A1F8929482C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Trash_Disintegration" ID="{E6A3D708-4FE1-467C-BD08-5631F4F17386}">
+					<ChildrenList>
+						<Action Name="" ID="{9409BC84-8FBA-467B-803F-A9A9CCA91379}" ShortID="340839255">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Trash Disintigration" ID="{11F2BABE-94F8-4676-A52F-D27DD1DDE7ED}" WorkUnitID="{FA313772-C54A-4DC7-B965-3A1F8929482C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Item_Pickup" ID="{5DC732CB-0AB1-42B6-9CAD-F93A52D88880}">
+					<ChildrenList>
+						<Action Name="" ID="{FF4EC63E-0B58-46F7-BBBB-6B33C952DF46}" ShortID="1035393406">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Item_Pickup" ID="{28CF031B-A0FD-40E0-8865-6B02E1360B52}" WorkUnitID="{FA313772-C54A-4DC7-B965-3A1F8929482C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Item_drop_off" ID="{6A8CCBB9-FE98-407D-8FF4-E3D835D3ECBC}">
+					<ChildrenList>
+						<Action Name="" ID="{73192ABF-EECD-480A-8B04-9BBA68666A7C}" ShortID="543342389">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Item_Drop_Off" ID="{6B03E1D5-43D0-4CBE-BD88-3EA9483890FD}" WorkUnitID="{FA313772-C54A-4DC7-B965-3A1F8929482C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Throw" ID="{35916773-3C16-464E-A47A-54B65AB7F874}">
+					<ChildrenList>
+						<Action Name="" ID="{00ED8567-7896-481A-BFF6-78AE9578B4F6}" ShortID="292342677">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Throw" ID="{BA98D408-9A03-4C82-A6FC-AD740962614A}" WorkUnitID="{FA313772-C54A-4DC7-B965-3A1F8929482C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Music" ID="{DB8B1376-1AC4-4FD8-9F1F-167EE8EED5A5}">
+					<ChildrenList>
+						<Action Name="" ID="{DC7CA9EB-17EF-4CE3-8FDC-EE748DF98462}" ShortID="380902980">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="New Music Playlist Container" ID="{D1AF4FAE-FA37-4D23-9355-7D9BC1BB4924}" WorkUnitID="{03A97AF0-C085-41E5-8D47-327FE793C33C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Stop_Music" ID="{FCD3B139-47FB-4DF2-AC1B-0FF4C59D7CF2}">
+					<ChildrenList>
+						<Action Name="" ID="{DF968E12-FF5F-46CA-AB27-3E1FFB07DE3E}" ShortID="259472539">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="New Music Playlist Container" ID="{D1AF4FAE-FA37-4D23-9355-7D9BC1BB4924}" WorkUnitID="{03A97AF0-C085-41E5-8D47-327FE793C33C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Stop_ATMOS" ID="{ABBDBCB0-479A-4713-9456-551B57084AB1}">
+					<ChildrenList>
+						<Action Name="" ID="{EB1132E3-8D86-4CF4-9C1D-940494321C02}" ShortID="451285871">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="ATMOS" ID="{B406B29E-6AB7-4FCA-B659-2D82B5215921}" WorkUnitID="{FA313772-C54A-4DC7-B965-3A1F8929482C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

@@ -1,0 +1,36 @@
+Event	ID	Name			Wwise Object Path	Notes
+	566396871	Item_Pickup			\Default Work Unit\Item_Pickup	
+	745179803	Throw			\Default Work Unit\Throw	
+	801495022	Stop_ATMOS			\Default Work Unit\Stop_ATMOS	
+	915214409	Gun			\Default Work Unit\Gun	
+	1241012326	Trash_Disintegration			\Default Work Unit\Trash_Disintegration	
+	1795056175	Boat			\Default Work Unit\Boat	
+	1947504258	Underwater_Explosion			\Default Work Unit\Underwater_Explosion	
+	2048636481	Trash_Splash			\Default Work Unit\Trash_Splash	
+	2837384057	Stop_Music			\Default Work Unit\Stop_Music	
+	3034623661	ATMOS			\Default Work Unit\ATMOS	
+	3753125487	Diver			\Default Work Unit\Diver	
+	3991942870	Music			\Default Work Unit\Music	
+	4191796378	Item_drop_off			\Default Work Unit\Item_drop_off	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	681025064	Depth			\Default Work Unit\Depth	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	43313938	ATMOS_Mid Layer Loop	D:\Green_Game_Jam_17\Green Game Jam\GGJ Wwise\.cache\Windows\SFX\ATMOS_Mid Layer Loop_F17FB28C.wem		\Actor-Mixer Hierarchy\Default Work Unit\ATMOS\ATMOS_Mid Layer Loop		4880464
+	107303243	Item_Pickup	D:\Green_Game_Jam_17\Green Game Jam\GGJ Wwise\.cache\Windows\SFX\Item_Pickup_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Item_Pickup		129088
+	146868636	Trash Splash_2	D:\Green_Game_Jam_17\Green Game Jam\GGJ Wwise\.cache\Windows\SFX\Trash Splash_2_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Trash Splash\Trash Splash_2		345516
+	400857580	Trash Disintigration	D:\Green_Game_Jam_17\Green Game Jam\GGJ Wwise\.cache\Windows\SFX\Trash Disintigration_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Trash Disintigration		507216
+	421126709	ATMOS_Top Layer Loop	D:\Green_Game_Jam_17\Green Game Jam\GGJ Wwise\.cache\Windows\SFX\ATMOS_Top Layer Loop_F17FB28C.wem		\Actor-Mixer Hierarchy\Default Work Unit\ATMOS\ATMOS_Top Layer Loop		4880464
+	425966432	Item_Drop_Off	D:\Green_Game_Jam_17\Green Game Jam\GGJ Wwise\.cache\Windows\SFX\Item_Drop_Off_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Item_Drop_Off		265280
+	476540393	ATMOS_Bottom Layer Loop	D:\Green_Game_Jam_17\Green Game Jam\GGJ Wwise\.cache\Windows\SFX\ATMOS_Bottom Layer Loop_F17FB28C.wem		\Actor-Mixer Hierarchy\Default Work Unit\ATMOS\ATMOS_Bottom Layer Loop		4880464
+	566987564	Trash Splash_1	D:\Green_Game_Jam_17\Green Game Jam\GGJ Wwise\.cache\Windows\SFX\Trash Splash_1_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Trash Splash\Trash Splash_1		346896
+	574188644	Music_Loop	D:\Green_Game_Jam_17\Green Game Jam\GGJ Wwise\.cache\Windows\SFX\Music_Loop_F17FB28C.wem		\Interactive Music Hierarchy\Default Work Unit\New Music Playlist Container\Music_Loop\Music_Loop		8062400
+	675420384	Throw	D:\Green_Game_Jam_17\Green Game Jam\GGJ Wwise\.cache\Windows\SFX\Throw_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Throw		242556
+	764596875	Underwater Explosion	D:\Green_Game_Jam_17\Green Game Jam\GGJ Wwise\.cache\Windows\SFX\Underwater Explosion_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Underwater Explosion		661564
+	872878855	Boat	D:\Green_Game_Jam_17\Green Game Jam\GGJ Wwise\.cache\Windows\SFX\Boat_F17FB28C.wem		\Actor-Mixer Hierarchy\Default Work Unit\Boat		2925364
+	988502152	Music_Start	D:\Green_Game_Jam_17\Green Game Jam\GGJ Wwise\.cache\Windows\SFX\Music_Start_F17FB28C.wem		\Interactive Music Hierarchy\Default Work Unit\New Music Playlist Container\Music_Start\Music_Start		879220
+	1028997572	Handgun Above Water	D:\Green_Game_Jam_17\Green Game Jam\GGJ Wwise\.cache\Windows\SFX\Handgun Above Water_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Handgun\Handgun Above Water		205864
+	1044853170	Underwater Handgun	D:\Green_Game_Jam_17\Green Game Jam\GGJ Wwise\.cache\Windows\SFX\Underwater Handgun_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Handgun\Underwater Handgun		198516
+	1046157685	Diver	D:\Green_Game_Jam_17\Green Game Jam\GGJ Wwise\.cache\Windows\SFX\Diver_F17FB28C.wem		\Actor-Mixer Hierarchy\Default Work Unit\Diver		3381064
+
